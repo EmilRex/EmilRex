@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-{% include README.md %}
+{% include_relative README.md %}
