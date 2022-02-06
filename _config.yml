@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            EmilRex
-tagline:          'A blog about data'
-description:      'A blog about data'
+tagline:          'Thoughts on data'
+description:      'Thoughts on data'
 url:              https://emilrex.com
 baseurl:          /
 
@@ -17,9 +17,3 @@ author:
   url:            https://github.com/EmilRex
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/EmilRex/EmilRex
