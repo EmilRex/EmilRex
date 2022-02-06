@@ -1,6 +1,6 @@
-### Hi, I'm [@EmilRex](https://github.com/EmilRex) :wave:
+### Hi, I'm [@EmilRex](https://github.com/EmilRex) 👋
 
-I'm a data engineer living and working in NYC :statue_of_liberty:
+I'm a data engineer living and working in NYC 🗽
 
 I started coding and working with data in college and have been learning ever since. I spent my formative years at [enigma](https://enigma.com/) collecting _all the data_ for fun and profit.
 
